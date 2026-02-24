@@ -1,2 +1,11 @@
-# Smart-Crowd-Tracker-Real-Time-AI-Person-Detection-Tracking
-Real-time person detection and tracking system using YOLOv8 + ByteTrack and Faster R-CNN + DeepSORT for intelligent crowd monitoring and people counting.
+mart Crowd Tracker – Real-Time AI Person Detection & Tracking
+
+This project presents a real-time person detection and tracking system developed for Advanced Machine Learning (AI401).
+
+The system integrates two powerful deep learning pipelines:
+
+YOLOv8 + ByteTrack for high-speed real-time tracking.
+
+Faster R-CNN + DeepSORT for high-accuracy offline analysis.
+
+It supports both live webcam input and uploaded video processing, automatically detecting people, assigning unique tracking IDs, and continuously updating the total number of individuals in the scene
