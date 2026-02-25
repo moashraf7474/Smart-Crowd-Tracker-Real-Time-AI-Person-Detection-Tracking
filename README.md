@@ -1,7 +1,5 @@
 mart Crowd Tracker – Real-Time AI Person Detection & Tracking
 
-This project presents a real-time person detection and tracking system developed for Advanced Machine Learning (AI401).
-
 The system integrates two powerful deep learning pipelines:
 
 YOLOv8 + ByteTrack for high-speed real-time tracking.
