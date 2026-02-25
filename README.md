@@ -1,4 +1,4 @@
-mart Crowd Tracker – Real-Time AI Person Detection & Tracking
+Smart Crowd Tracker – Real-Time AI Person Detection & Tracking
 
 The system integrates two powerful deep learning pipelines:
 
